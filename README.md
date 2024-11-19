@@ -3,7 +3,7 @@ getgenv().extort = {
         Normal = {
             SilentAimEnabled = true,
             HitPart = "HumanoidRootPart",
-            Prediction = 0.125772,
+            Prediction = 0.1257724,
             AirPrediction = 0.129,
         },
         FOV = {
